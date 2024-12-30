@@ -1,4 +1,4 @@
-# cyclist_casestudy
+# cyclistic-analysis
 
 # Cyclistic Bike-Share Analysis
 
